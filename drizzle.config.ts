@@ -8,3 +8,6 @@ export default defineConfig({
     url: Deno.env.get("DATABASE_URL")!,
   },
 });
+
+
+

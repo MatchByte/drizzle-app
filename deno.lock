@@ -2,6 +2,7 @@
   "version": "4",
   "specifiers": {
     "npm:@types/pg@^8.11.10": "8.11.10",
+    "npm:drizzle-kit@*": "0.28.1_esbuild@0.19.12",
     "npm:drizzle-kit@~0.28.1": "0.28.1_esbuild@0.19.12",
     "npm:drizzle-orm@~0.36.3": "0.36.3_@types+pg@8.11.10_pg@8.13.1",
     "npm:pg@^8.13.1": "8.13.1"
